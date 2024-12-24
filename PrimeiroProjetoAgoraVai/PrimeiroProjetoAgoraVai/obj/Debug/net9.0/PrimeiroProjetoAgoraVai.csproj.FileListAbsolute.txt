@@ -1,0 +1,14 @@
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\bin\Debug\net9.0\PrimeiroProjetoAgoraVai.exe
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\bin\Debug\net9.0\PrimeiroProjetoAgoraVai.deps.json
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\bin\Debug\net9.0\PrimeiroProjetoAgoraVai.runtimeconfig.json
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\bin\Debug\net9.0\PrimeiroProjetoAgoraVai.dll
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\bin\Debug\net9.0\PrimeiroProjetoAgoraVai.pdb
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.GeneratedMSBuildEditorConfig.editorconfig
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.AssemblyInfoInputs.cache
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.AssemblyInfo.cs
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.csproj.CoreCompileInputs.cache
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.dll
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\refint\PrimeiroProjetoAgoraVai.dll
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.pdb
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\PrimeiroProjetoAgoraVai.genruntimeconfig.cache
+V:\Users\Vitor\source\repos\PrimeiroProjetoAgoraVai\PrimeiroProjetoAgoraVai\obj\Debug\net9.0\ref\PrimeiroProjetoAgoraVai.dll
